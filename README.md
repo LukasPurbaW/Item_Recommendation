@@ -6,4 +6,5 @@ Application of Apriori Algorithm
 * [Image Scrapper.ipynb](https://github.com/LukasPurbaW/Item_Recommendation/raw/main/Image_Scrapper.ipynb) is used for downloading images of listed items from duckduckgo for better visualization. 
 * I divided the pictures with different zip files because the upload limit is 25 MB and I still haven't used to using git-push.
 
+## Example of the Item Recommendation :
 ![alt text](https://github.com/LukasPurbaW/Item_Recommendation/raw/main/Item_recommendation_example.jpg)
